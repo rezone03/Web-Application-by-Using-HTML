@@ -1,0 +1,13 @@
+<html>
+<title>Video</title>
+<body>
+
+<a href="Home.html">Home</a>
+<a href="Result.html">Result</a>
+<a href="Video.html">Video</a>
+<a href="Location.html">Location</a>
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZptdrpAZBZw?si=cqO8vLs32DPr6hll" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
